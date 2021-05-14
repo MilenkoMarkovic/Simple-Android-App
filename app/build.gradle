@@ -7,7 +7,7 @@ apply plugin: 'io.fabric'
 android {
     compileSdkVersion 30
     defaultConfig {
-        applicationId "org.h7.simple"
+        applicationId "org.h7.new"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
